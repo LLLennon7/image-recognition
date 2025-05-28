@@ -1,2 +1,2 @@
 # image-recognition
-#simple color and ball recognition for robocon
+simple color and ball recognition for robocon
